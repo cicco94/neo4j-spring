@@ -12,5 +12,6 @@ public class PersonEntity {
     @Id
     private String name;
 
+    @Property("born")
     private Integer born;
 }
