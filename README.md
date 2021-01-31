@@ -12,7 +12,7 @@ In order to feed the db, you can
 - or run the queries inside the `load-movies.cyper` file on your neo4j-shell (you can find one at your `localhost:7687` if your ran the docker at the previous step)
 
 ### Validate the result
-If you follow the previous step, you should now obtain the same result: ![](https://github.com/cicco94/neo4j-spring/blob/main/src/main/resources/result.PNG)
+If you follow the previous step, you should obtain the same result: ![](https://github.com/cicco94/neo4j-spring/blob/main/src/main/resources/result.PNG)
 
 #### Author's contact
 ciccottandrea@gmail.com
